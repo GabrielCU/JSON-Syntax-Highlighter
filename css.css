@@ -1,0 +1,44 @@
+body {
+  background-color: #252525;
+  tab-size: 10px;
+  -moz-tab-size: 4;      
+  -o-tab-size: 4;
+  tab-size: 4
+}
+
+pre {
+  font-family: Monospace;
+  font-size: 20px;
+}
+
+.bracket {
+  color: White;
+}
+
+.brace {
+  color: White;
+}
+
+.number {
+  color: LightSkyBlue;
+}
+
+.float {
+  color: Green;
+}
+
+.string {
+  color: #6497b1;
+}
+
+.key {
+  color: #c792ea;
+}
+
+.reserved {
+  color: CornflowerBlue;
+}
+
+.punctuation {
+  color: White;
+}
