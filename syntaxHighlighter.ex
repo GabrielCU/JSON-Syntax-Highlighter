@@ -1,3 +1,8 @@
+# A syntax highlighter for JSON files using regex expressions.
+#
+# Gabriel Cordova
+# 2023-05-31
+
 defmodule SyntaxHighlighter do
   
   # Function to highlight a JSON file and generate an HTML output
