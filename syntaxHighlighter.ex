@@ -107,4 +107,4 @@ defmodule SyntaxHighlighter do
 end
 
 # Calling main function with the json file to parse and the output file.
-SyntaxHighlighter.highlight_json_file("Tests/2.json", "output.html")
+SyntaxHighlighter.highlight_json_file("Tests/4.json", "output.html")
